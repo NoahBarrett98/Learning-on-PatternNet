@@ -1,0 +1,13 @@
+TensorFlow
+Numpy
+Matplotlib
+tqdm
+scipy
+pandas
+Ipython
+Pillow
+pyyaml
+h5py
+jupyter
+ipykernel
+
